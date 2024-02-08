@@ -1,6 +1,4 @@
 # Email Extractor Tool
-
-## Introduction
 The Email Extractor Tool is a simple yet powerful HTML5 application designed to extract email addresses from any given text input. It operates entirely on the client side, ensuring user data privacy and security by processing data locally without the need for server interaction. Featuring a user-friendly interface and a one-click copy-to-clipboard functionality, this tool is ideal for quickly gathering emails from large chunks of text for cybersecurity analysts, marketers, and anyone in need of extracting email addresses efficiently.
 
 ## Features
