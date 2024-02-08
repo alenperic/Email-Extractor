@@ -18,10 +18,6 @@ The Email Extractor Tool is a simple yet powerful HTML5 application designed to 
 ## Requirements
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 
-```bash
-git clone https://github.com/yourusername/email-extractor-tool.git
-```
-
 ## Usage Example
 After opening the tool in your browser:
 1. Paste your text into the left textbox.
