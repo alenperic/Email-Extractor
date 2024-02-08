@@ -18,9 +18,6 @@ The Email Extractor Tool is a simple yet powerful HTML5 application designed to 
 ## Requirements
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 
-## Installation
-No installation required! Simply clone this repository or download the provided HTML file and open it in your web browser.
-
 ```bash
 git clone https://github.com/yourusername/email-extractor-tool.git
 ```
